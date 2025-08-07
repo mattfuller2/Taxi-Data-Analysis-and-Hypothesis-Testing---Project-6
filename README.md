@@ -1,4 +1,4 @@
-# Taxi-Data-Analysis-and-Hypothesis-Testing---Project-6
+# Sprint 6: Taxi-Data-Analysis-and-Hypothesis-Testing---Project-6
 
 ## Exploratory Data Analysis
 
